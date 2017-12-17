@@ -1,0 +1,6 @@
+D:\GIT\TestRepos\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\GIT\TestRepos\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\GIT\TestRepos\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\GIT\TestRepos\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+D:\GIT\TestRepos\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\GIT\TestRepos\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
