@@ -8,9 +8,33 @@ namespace ConsoleApplication
 {
     class Program
     {
+        public static void DoBadWork()
+        {
+            int x = 10;
+            int y = 0;
+
+            var result = x / y;
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("MY first git change");
+
+
+
+            try
+            {
+                // do some operation that can fail
+
+                DoBadWork();
+                //double result = x / y;
+            }
+            catch (Exception ex)
+            {
+                // do some local cleanup
+                //throw ex;
+                throw new ApplicationException("fatal error", ex);
+            }
         }
     }
 }
