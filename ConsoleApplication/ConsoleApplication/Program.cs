@@ -12,5 +12,10 @@ namespace ConsoleApplication
         {
             Console.WriteLine("MY first git change");
         }
+
+        public void NewMethod(string testparameter)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
