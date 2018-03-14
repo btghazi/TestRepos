@@ -41,5 +41,10 @@ namespace ConsoleApplication
         {
             Console.WriteLine("This is another work...");
         }
+
+        public void NewMethod(string testparameter)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
