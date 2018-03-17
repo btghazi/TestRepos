@@ -36,5 +36,10 @@ namespace ConsoleApplication
                 throw new ApplicationException("fatal error", ex);
             }
         }
+
+        public void DoAnotherWork()
+        {
+            Console.WriteLine("This is another work...");
+        }
     }
 }
