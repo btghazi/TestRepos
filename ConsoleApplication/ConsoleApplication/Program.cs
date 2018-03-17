@@ -19,6 +19,7 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("MY first git change");
+            Console.WriteLine("MY first git change I wnat to commit ...");
 
 
 
@@ -31,7 +32,6 @@ namespace ConsoleApplication
             }
             catch (Exception ex)
             {
-                // do some local cleanup
                 //throw ex;
                 throw new ApplicationException("fatal error", ex);
             }
