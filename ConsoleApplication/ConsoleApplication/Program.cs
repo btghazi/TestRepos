@@ -18,7 +18,7 @@ namespace ConsoleApplication
 
         static void Main(string[] args)
         {
-            Console.WriteLine("MY first git change");
+            Console.WriteLine("MY first git change other feature");
             Console.WriteLine("MY first git change I wnat to commit ...");
 
 
